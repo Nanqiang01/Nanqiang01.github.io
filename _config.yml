@@ -145,7 +145,7 @@ analytics:
 include:
   - .htaccess
   - _pages
-  - 文件
+  - files
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
