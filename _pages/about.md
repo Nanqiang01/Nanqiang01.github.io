@@ -14,4 +14,4 @@ redirect_from:
 ![decription](https://img.shields.io/badge/Language-R-blue)
 ![decription](https://img.shields.io/badge/Language-C++-red)
 
-I’m currently a senior undergraduate student at CEMA, CUFE, majoring in Math.
+I’m currently a senior undergraduate student at SAM, CUFE, majoring in Math.
