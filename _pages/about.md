@@ -14,4 +14,4 @@ redirect_from:
 ![decription](https://img.shields.io/badge/Language-R-blue)
 ![decription](https://img.shields.io/badge/Language-C++-red)
 
-I’m currently a senior undergraduate student at SAM, CUFE, majoring in Math.
+I graduated from the CUFE, majoring in Math, and will soon be studying as a MF Fintech track student at the SAIF, SJTU.
