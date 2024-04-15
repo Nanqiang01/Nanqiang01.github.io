@@ -4,10 +4,10 @@ main:
     url: /year-archive/
 
   - title: "Code"
-    url: /Code/    
+    url: /code/    
 
   - title: "Workflow"
-    url: /Workflow/
+    url: /workflow/
     
   - title: "CV"
     url: /cv/
