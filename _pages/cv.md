@@ -1,4 +1,4 @@
-![image](https://github.com/Nanqiang01/Nanqiang01.github.io/assets/90229062/39ccb117-49c4-4658-900e-1468adadca3a)---
+---
 layout: archive
 title: "CV"
 permalink: /cv/
