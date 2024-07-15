@@ -14,7 +14,7 @@ redirect_from:
 ![decription](https://img.shields.io/badge/Language-R-blue)
 ![decription](https://img.shields.io/badge/Language-C++-red)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nanqiang01)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nanqiang01&show_icons=true?theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 I graduated from the CUFE, majoring in Math, and will soon be studying as a MF Fintech track student at the SAIF, SJTU(graduating in 2026).
 
